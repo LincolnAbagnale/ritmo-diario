@@ -1,0 +1,16 @@
+// Configuração do Worker na Cloudflare. O Nitro junta isto com o build
+// (gera .output/server/wrangler.json). Guia completo: DEPLOY.md
+{
+  "name": "ritmo-diario",
+  "compatibility_date": "2025-09-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "ritmo",
+      // Troque pelo database_id que `npx wrangler d1 create ritmo` mostrar.
+      "database_id": "00000000-0000-0000-0000-000000000000",
+      "migrations_dir": "migrations"
+    }
+  ]
+}

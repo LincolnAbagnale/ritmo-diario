@@ -1,0 +1,12 @@
+# Ritmo
+- [x] Estrutura visual responsiva e navegação
+- [x] Dados locais, hábitos e interações
+- [x] Telas Hoje, Hábitos, Progresso e Ajustes
+- [x] Instalação e funcionamento offline
+- [x] Validação mobile e desktop
+- [x] Progresso inicial zerado e anéis diários interativos
+- [x] Frequência mensal, alinhamento do formulário e contador X/Y
+- [x] Calendário do hábito com números dos dias e anéis de progresso
+- [x] Gráfico semanal e mensal diário em grade quadrada de 0% a 100%
+- [x] Porcentagem ao tocar no dia e navegação semanal por gesto lateral
+- [x] Compartilhamento de conquistas em imagem

@@ -1,0 +1,16 @@
+{
+  "name": "Ritmo — Hábitos pessoais",
+  "short_name": "Ritmo",
+  "description": "Seu espaço privado para construir hábitos com consistência.",
+  "start_url": "/",
+  "id": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0C0D0E",
+  "theme_color": "#0C0D0E",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
